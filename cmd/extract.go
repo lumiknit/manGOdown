@@ -1,5 +1,5 @@
 /*
-Copyright © 2024 NAME HERE <EMAIL ADDRESS>
+Copyright © 2024 lumiknit <aasr4r4@gmail.com>
 */
 package cmd
 
